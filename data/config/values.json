@@ -3,7 +3,7 @@
     "point": {
       "enabled": "true",
       "title": "GPS Point Markers",
-      "red": "255",
+      "red": "",
       "blue": "84",
       "green": "255",
       "alpha": "20",
@@ -32,11 +32,6 @@
       "green": "255",
       "alpha": "200"
     },
-    "dimensions": {
-      "title": "Map Export Dimensions",
-      "height": "800",
-      "width": "1200"
-    },
     "connector": {
       "enabled": "true",
       "title": "GPS Point Connectors",
@@ -45,13 +40,18 @@
       "green": "200",
       "alpha": "20",
       "size": "1"
+    },
+    "dimensions": {
+      "title": "Map Export Dimensions",
+      "height": "800",
+      "width": "1200"
     }
   },
   "map_views": {"2019317172210": {
-    "title": "My New View",
-    "zoom": "13",
+    "title": "TRACKING ISRAEL\t\t\t\t\t\t\t",
     "file": "mynewview",
-    "longitude": "-73.99",
-    "latitude": "40.74"
+    "zoom": "12",
+    "longitude": "-70.68999",
+    "latitude": "-33.459766"
   }}
 }
